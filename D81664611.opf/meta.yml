@@ -1,10 +1,22 @@
-id: PFAF48617
+id: D81664611
+source: https://library.bdrc.io
+source_file: null
 initial_creation_type: ocr
+imported: '2022-01-07T14:02:07+00:00'
+last_modified: '2022-05-26T12:35:46.744402+00:00'
+parser: https://github.com/OpenPecha-dev/openpecha-toolkit/blob/a7eec5e12ddce18d0ed1dbb732a42cf48f94dd09/openpecha/formatters/hfml.py
 source_metadata:
-  volumes:
-    989b3f74ad9244cdb0be0cfdb5b0973c:
-      base_file: v038.txt
+  base:
+    607c:
       image_group_id: I1PD95883
       title: གཙུག་ཏོར་དྲི་མ་མེད་པར་སྣང་བའི་གཟུངས་བཀླག་ཅིང་མཆོད་རྟེན་བརྒྱ་རྩ་བརྒྱད་དམ་མཆོད་རྟེན་ལྔ་གདབ་པའི་ཆོ་ག་མདོ་སད་ལས་བསྡུས་པ།
       total_pages: 1044
-      volume_number: 38
+      order: 38
+      base_file: 607c.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
